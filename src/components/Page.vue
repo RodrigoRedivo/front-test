@@ -9,7 +9,7 @@
       v-mask="'##.###.###/####-##'"
     />
 
-    <button @click="buscar(cnpj)" class="bd">Buscar</button>
+    <button @click="buscar(cnpj)">Buscar</button>
 
     <div v-if="error" class="error">
       <h3>
@@ -20,7 +20,7 @@
 
     <div v-if="carregando" id="load"></div>
 
-    <div v-if="pesquisas" class="bd search">
+    <div v-if="pesquisas" class="search">
       <h3>Ultimas Buscas</h3>
       <nav>
         <a
