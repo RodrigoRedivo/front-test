@@ -250,12 +250,12 @@ export default {
 
     h3 {
       font-size: 36px;
-      margin: 30px 0 30px;
+      margin: 30px auto;
       color: #f9f9f9;
     }
 
     nav {
-      margin: 10px;
+      margin: 10px auto;
 
       a {
         color: #ff2562;
@@ -276,12 +276,20 @@ export default {
     }
 
     input {
-      width: 250px;
+      width: 100%;
       font-size: 16px;
+      padding: 10px;
+      margin-bottom: 20px;
     }
 
     button {
-      margin: 10px;
+      width: 100%;
+      border-radius: 4px;
+      margin-bottom: 10px;
+    }
+
+    .search {
+      width: 100%;
     }
 
     .dados {
@@ -289,19 +297,27 @@ export default {
       margin: 0 auto;
 
       h4 {
-        font-size: 36px;
+        font-size: 24px;
         margin: 10px 0 30px;
       }
 
-      table,
-      th,
-      tr,
-      td {
-        width: 50vw;
-        display: flex;
-        flex-direction: column;
-        font-size: 16px;
-        text-align: center;
+      table {
+        th {
+          font-size: 16px;
+          font-weight: 700;
+        }
+
+        td {
+          font-size: 8px;
+        }
+
+        th,
+        tr,
+        td {
+          width: 50vw;
+          display: flex;
+          flex-direction: column;
+        }
       }
     }
   }
