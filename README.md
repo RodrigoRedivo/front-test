@@ -12,12 +12,12 @@
 
 <h3 align="center">Desktop</h3>
 <h4 align="center">
-	<img alt="project" title="Project" src="" width="800px" />
+	<img alt="project" title="Project" src="https://github.com/RodrigoRedivo/front-test/blob/main/src/assets/desktop.png?raw=true" width="800px" />
 </h4>
 
 <h3 align="center">Mobile</h3>
 <h4 align="center">
-	<img alt="project" title="Project" src="" width="800px" />
+	<img alt="project" title="Project" src="https://github.com/RodrigoRedivo/front-test/blob/main/src/assets/mobile_CNPJ.png" />
 </h4>
 
 ---
@@ -75,10 +75,10 @@ $ npm run serve
 
 # Caso queira entre no site
 
-$ https://front-test1-ndvj09ojl-rodrigoredivo.vercel.app/
+$ https://front-test.vercel.app/
 ```
 
-Caso Queiram acessar o site <a href="https://front-test1-ndvj09ojl-rodrigoredivo.vercel.app/">AQUI</a>
+Caso Queiram acessar o site <a href="https://front-test.vercel.app/">AQUI</a>
 
 <h5 align="center"> 
 Feito com 💜 by Rodrigo Redivo 🤝 [Entre em Contato!](https://www.linkedin.com/in/rodrigo-redivo/)
