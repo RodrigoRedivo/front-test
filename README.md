@@ -75,10 +75,10 @@ $ npm run serve
 
 # Caso queira entre no site
 
-$ https://front-test.vercel.app/
+$ https://61ee0f9427f64a15ada5bc51--mystifying-shockley-372286.netlify.app/
 ```
 
-Caso Queiram acessar o site <a href="https://front-test.vercel.app/">AQUI</a>
+Caso Queiram acessar o site <a href="https://61ee0f9427f64a15ada5bc51--mystifying-shockley-372286.netlify.app/">AQUI</a>
 
 <h5 align="center"> 
 Feito com 💜 by Rodrigo Redivo 🤝 [Entre em Contato!](https://www.linkedin.com/in/rodrigo-redivo/)
